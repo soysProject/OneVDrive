@@ -5,7 +5,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta name="description" content="OneDrive Vercel Index" />
+          <meta name="description" content="Alice in Wonderland" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <body>
